@@ -54,7 +54,11 @@ nav{
     height: 232px;
     width: 325px;
     margin: auto;
+<<<<<<< HEAD
     background-image: url("celular.svg");
+=======
+    background-image: url("../assets/iPhone mockup header.svg");
+>>>>>>> f2cdc592cf6f0f436b6f79ca03479a8edb496801
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
